@@ -1,5 +1,8 @@
 # 📚 OpenLibrary Search Application
 
+<img width="1041" height="575" alt="image" src="https://github.com/user-attachments/assets/67e8a434-114e-4280-9a62-b1970af4183e" />
+
+
 A modern, responsive web application built with Next.js that provides an intuitive interface for searching and exploring books using the OpenLibrary API.
 
 ## 🚀 Features
