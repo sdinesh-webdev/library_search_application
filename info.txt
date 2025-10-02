@@ -1,0 +1,18 @@
+Library Search Application - Full Stack Next.js Project
+
+• Architected a modern web application using Next.js 13+ with App Router, implementing server-side and client-side rendering strategies to optimize performance , while leveraging React Server Components for reduced client-side JavaScript.
+
+• Engineered a robust data fetching layer using TanStack Query (React Query) for efficient server state management, implementing automatic background refetching, caching, and optimistic updates, resulting in improved user experience and reduced API calls.
+
+• Developed a responsive and accessible UI using Tailwind CSS and custom components, incorporating modern design patterns like grid layouts, lazy-loaded images, and dark mode support, achieving WCAG compliance and mobile-first responsiveness.
+
+• Integrated with OpenLibrary's RESTful API using Axios, implementing type-safe data fetching with TypeScript interfaces, proper error handling, and rate limiting, while managing complex nested API responses for book and author data.
+
+• Implemented advanced React patterns including custom hooks, compound components, and context management, while utilizing Next.js dynamic routing for SEO-friendly URLs and optimized page transitions in a production-ready application architecture.
+
+Technical Skills Demonstrated:
+- Frontend: Next.js 15, React 19, TypeScript, Tailwind CSS
+- State Management: TanStack Query v5, React Hooks
+- API Integration: RESTful APIs, Axios, JSON
+- Performance: Lazy Loading, Image Optimization, Dynamic Imports
+- Architecture: Component-Driven Development, Clean Code Principles
